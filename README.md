@@ -21,6 +21,6 @@ providing security among the group itself.
 - [Firebase](https://firebase.google.com/) - firebase for storing messages
 
 ## Installation
-Download and run .exe file from bin folder.
+Download and run .exe file from bin folder.\
 Note: This app is still under development, it might not work as expected.
 
